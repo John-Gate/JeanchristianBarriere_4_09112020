@@ -32,29 +32,31 @@
 <!-- Principal conteneur -->
 <div class="page-container">   
 <!-- navbar -->
-<nav class="bloc bgc-white l-bloc " id="bloc-0">
-	<div class="container bloc-sm">
-		<nav class="navbar row">
-			<div class="navbar-header">
-				<a class="navbar-brand" href="index.html"><img src="img/la-chouette-agence.png" alt="atlanta web design logo" height="40" /></a>
-				<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
-					<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-				</button>
-			</div>
-			<div class="collapse navbar-collapse navbar-1 special-dropdown-nav">
-				<ul class="site-navigation nav navbar-nav">
-					<li>
-						<a href="index.html">Accueil</a>
-					</li>				
-				</ul>
-			</div>
-		</nav>
-	</div>
-</nav>
+<header>
+	<nav class="bloc bgc-white l-bloc " id="bloc-0">
+		<div class="container bloc-sm">
+			<nav class="navbar row">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="index.html"><img src="img/la-chouette-agence.png" alt="atlanta web design logo" height="40" /></a>
+					<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+						<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse navbar-1 special-dropdown-nav">
+					<ul class="site-navigation nav navbar-nav">
+						<li>
+							<a href="index.html">Accueil</a>
+						</li>				
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</nav>
+</header>
 <!-- navbar END -->
 
 <!-- header contact -->
-<header class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
+<section class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-12">
@@ -68,14 +70,14 @@
 			</div>
 		</div>
 	</div>
-</header>
+</section>
 <!-- header contact END -->
 <!-- Formulaire contact -->
 <section class="bloc bgc-white l-bloc" id="bloc-7">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-6">
-				<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+				<form id="form_1">
 					<div class="form-group">
 						<label for="name">
 							Nom
@@ -105,9 +107,9 @@
 				</form>
 			</div>
 			<div class="col-sm-6">
-				<p>
+				<h3>
 					contact@lachouetteagence.com<br>2 place Sathonay 69001 Lyon<br>Ouvert de 9h à 18h, du lundi au vendredi<br>
-				</p>
+				</h3>
 			</div>
 		</div>
 	</div>
