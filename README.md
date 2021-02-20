@@ -20,7 +20,7 @@ Optimisation un site web existant :
 >Le site web apparait à la deuxieme page des moteurs de recherche. Il faut améliorer son referencement. 
 
 ## Installation
-Pas d'installation necessaire.
+Pas d'installation necessaire.  
 [Ici](https://john-gate.github.io/projet4-pre-optimisation), vous trouverez le site web avant d'avoir était optimisé.  
 Et [sur ce lien](https://john-gate.github.io/jeanchristianbarriere_4_09112020/), vous trouverez le site web optimisé.
 
