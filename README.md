@@ -19,8 +19,8 @@ Optimisation un site web existant :
 >Le site web apparait à la deuxieme page des moteurs de recherche. Il faut améliorer son referencement. 
 
 ## Installation
-[Site Web avant d'avoir était optimisé.](TROUVER LIEN DU SITE AVT SEO)
-[Site Web modifié](https://john-gate.github.io/jeanchristianbarriere_3_26102020/) avec les bonnes pratiques implantées.
+[Site Web avant d'avoir était optimisé.](https://john-gate.github.io/jeanchristianbarriere_4_09112020/)projet4-pre-optimisation)
+[Site Web modifié](https://john-gate.github.io/jeanchristianbarriere_4_09112020/) avec les bonnes pratiques implantées.
 
 ## Éléments fournis
 *  
