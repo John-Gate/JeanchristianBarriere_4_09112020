@@ -8,13 +8,14 @@
 7. [Contact](#Contact)
 
 ### Information Generale
-Création d’un site web multipage HTML CSS :
-* Mettre en œuvre des effets CSS graphique avancés.
-* Assurer la cohérence graphique d’un site web.
-* Mette en place des structures de navigation pour un site web.  
+	Optimisation un site web existant :
+* Assurer l’accessibilité d’un site web.
+* Réaliser une recherche de bonne pratique en développement web.
+* Écrire un code HTML et CSS maintenable.
+* Optimiser le référencement d’un site web et optimiser la taille et vitesse d’un site web.
 
-### ohmyfood 
-![Image text](https://github.com/John-Gate/jeanchristianbarriere_3_26102020/blob/main/sass/ressources/logo/ohmyfood.png)
+### la chouette agence
+![Image text](https://github.com/John-Gate/jeanchristianbarriere_4_09112020/blob/main/img/logo.png)
 >site web 100% mobile qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !
 
 ## Installation
