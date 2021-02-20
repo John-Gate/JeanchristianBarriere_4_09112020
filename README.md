@@ -19,8 +19,8 @@ Optimisation un site web existant :
 >Le site web apparait à la deuxieme page des moteurs de recherche. Il faut améliorer son referencement. 
 
 ## Installation
-[Ici](https://john-gate.github.io/projet4-pre-optimisation), le site Web avant d'avoir était optimisé.  
-[Site Web modifié](https://john-gate.github.io/jeanchristianbarriere_4_09112020/) avec les bonnes pratiques implantées.
+[Ici](https://john-gate.github.io/projet4-pre-optimisation), le site web avant d'avoir était optimisé.  
+Et vous trouverez [sur ce lien](https://john-gate.github.io/jeanchristianbarriere_4_09112020/),le site web modifié avec les bonnes pratiques.
 
 ## Éléments fournis
 *  
