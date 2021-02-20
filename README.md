@@ -3,8 +3,8 @@
 2. [Installation](#Installation)
 3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
-5. [Évaluation](#Évaluation)
-6. [Note](#Note)
+5. [Note](#Note)
+6. [Évaluation](#Évaluation)
 7. [Contact](#Contact)
 
 ### Information Generale
@@ -16,13 +16,13 @@ Optimisation un site web existant :
 
 ### la chouette agence
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_4_09112020/blob/main/img/logo.png)
->site web 100% mobile qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !
+>Le site web apparait à la deuxieme page des moteurs de recherche. Il faut améliorer son referencement. 
 
 ## Installation
 Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_3_26102020/), aucune installation n'est nécessaire.
 
 ## Éléments fournis
-* La maquette mobile. L'implatation version Desktop est donc libre. 
+*  
 
 ##  Cahier des charges
 _Réaliser un prototype_
