@@ -8,7 +8,7 @@
 7. [Contact](#Contact)
 
 ### Information Generale
-	Optimisation un site web existant :
+Optimisation un site web existant :
 * Assurer l’accessibilité d’un site web.
 * Réaliser une recherche de bonne pratique en développement web.
 * Écrire un code HTML et CSS maintenable.
@@ -62,7 +62,7 @@ _Contraintes_
 L'IDE que j'ai utilisé est *Visual Studio Code*. 
 
 ## Évaluation
-:heavy_check_mark: Ce projet a été validé par le jury d'OpenClassrooms le jeudi 5 novembre 2020.
+:heavy_check_mark: Ce projet a été validé par le jury d'OpenClassrooms le vendredi 20 novembre 2020.
 
 ## Contact
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
