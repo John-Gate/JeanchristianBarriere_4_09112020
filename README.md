@@ -39,8 +39,8 @@ _Outils utilisés_
 ## Notes
 L'IDE que j'ai utilisé est *Visual Studio Code*.  
 Le site passe le **W3C** pour HTML et CSS.  
-Utilisation de [Wave](https://wave.webaim.org/)pour vérifier l'accessibilité.
-Utilisation de [GtMetrix](https://gtmetrix.com/)pour vérifier l'optimisation.
+Utilisation de [Wave](https://wave.webaim.org/) pour vérifier l'accessibilité.  
+Utilisation de [GtMetrix](https://gtmetrix.com/) pour vérifier l'optimisation.
 
 ## Évaluation
 :heavy_check_mark: Ce projet a été validé par le jury d'OpenClassrooms le vendredi 20 novembre 2020.
