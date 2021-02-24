@@ -3,7 +3,7 @@
 2. [Installation](#Installation)
 3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
-5. [Note](#Note)
+5. [Notes](#Notes)
 6. [Évaluation](#Évaluation)
 7. [Contact](#Contact)
 
