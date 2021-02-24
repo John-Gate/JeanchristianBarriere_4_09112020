@@ -1,5 +1,5 @@
 ## Table des Matières
-1. [Information Generale](#general-info)
+1. [Information Generale](#Information-Generale)
 2. [Installation](#Installation)
 3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
