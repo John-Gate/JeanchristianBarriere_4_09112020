@@ -14,7 +14,7 @@ Optimisation un site web existant :
 * Écrire un code HTML et CSS maintenable.
 * Optimiser le référencement d’un site web et optimiser la taille et vitesse d’un site web.
 
-### la chouette agence
+### La chouette agence
 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_4_09112020/blob/main/img/logo.png)
 >Le site web apparait à la deuxieme page des moteurs de recherche. Il faut améliorer son referencement. 
